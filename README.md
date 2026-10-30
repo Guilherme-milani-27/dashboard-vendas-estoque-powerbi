@@ -87,3 +87,11 @@ Para conhecer as etapas de preparação dos dados, modelagem e limitações, con
 ## Autor
 
 Projeto desenvolvido como parte de um portfólio profissional de análise de dados e Business Intelligence.
+
+
+## Case profissional
+
+Conheça o problema de negócio, a solução desenvolvida
+e os resultados demonstrados neste projeto:
+
+[Visualizar case profissional](CASE_PROFISSIONAL.md)
