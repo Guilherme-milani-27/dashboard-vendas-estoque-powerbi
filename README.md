@@ -1,3 +1,28 @@
+# Sales & Inventory Analytics Dashboard
+
+**Business Intelligence project using Power BI and Python.**
+
+This project demonstrates how sales data can be transformed into interactive dashboards and business insights to support commercial performance analysis and inventory planning.
+
+### Key Features
+
+- Analysis of 9,800 sales records from the public Sample Superstore dataset.
+- Interactive dashboards for revenue, orders, and average order value.
+- Dimensional data modeling and DAX measures.
+- Product performance analysis and ABC classification.
+- Simulated inventory monitoring and replenishment planning.
+- Technical documentation covering data preparation, modeling, and project limitations.
+
+**Tech Stack:** Power BI, Python, Pandas, DAX, Power Query.
+
+**Data Disclaimer:** Inventory data is simulated for educational and portfolio purposes. The project does not represent a real company's inventory operations.
+
+**Documentation:** The complete technical documentation is available in Portuguese below.
+
+---
+
+# Documentação em Português
+
 # Dashboard de Vendas e Estoque | Power BI + Python
 
 Projeto de Business Intelligence desenvolvido para análise de desempenho comercial, classificação ABC de produtos e planejamento simulado de reposição de estoque.
